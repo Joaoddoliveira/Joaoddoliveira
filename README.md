@@ -35,6 +35,6 @@ In addition, my experience in aviation has helped immensely in shaping my way of
 I know there's still a lot to learn, but I keep working with focus and dedication, aiming to master Python and create useful applications and algorithms — whether to improve my daily life or make a meaningful contribution to society.
 
 #
-Little things...
+More things...
 
 Codewars: [https://fkcodes.com](https://www.codewars.com/users/Melpastel)
