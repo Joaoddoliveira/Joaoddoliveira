@@ -4,7 +4,7 @@
 
 I'm currently a second-year student at the Faculty of Science of University of Porto, studying Artificial Intelligence and Data Science. I enjoy the challenge of creating small algorithms and working on projects related to Artificial Intelligence and Data Science, especially when they involve real-world problem-solving.
 
-Alongside my academic journey, I hold a frozen ATPL license with 200 total flight hours. My favorite aircraft are the Cessna 172, where I built my foundation, and the Airbus A320, on which I’ve completed my MCC (Multi-Crew Cooperation) training. Aviation and tech may seem worlds apart, but I find both require the same mindset: precision, analysis, and calm decision-making under pressure.
+Alongside my academic journey, I hold a frozen ATPL license with 200 total flight hours. My favorite aircrafts are the Cessna 172, where I built my foundation, and the Airbus A320, on which I’ve completed my MCC (Multi-Crew Cooperation) training. Aviation and tech may seem worlds apart, but I find both require the same mindset: precision, analysis, and calm decision-making under pressure.
 
 </p>
 
