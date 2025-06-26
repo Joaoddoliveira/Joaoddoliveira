@@ -28,7 +28,7 @@ Alongside my academic journey, I hold a frozen ATPL license with 200 total fligh
 #
 👨‍💻 Joao's Coding Journey
 
-I've always been driven by curiosity, and my first contact with programming was during high school through Scratch. That’s where I began learning the basics of logic and how to think computationally. At university, I was introduced to Python in an introductory course, and I started completing daily challenges on CodeWars to improve my skills and problem-solving. During the first year of my Artificial Intelligence and Data Science (IACD) degree, I worked on several hands-on projects involving AI and data analysis, applying what I learned to real-world scenarios.
+I've always been driven by curiosity, and my first contact with programming was during high school through Scratch. That’s where I began learning the basics of logic and how to think computationally. At university, I was introduced to Python in an introductory course, and I started completing daily challenges on CodeWars to improve my skills and problem-solving. During the first year of my Artificial Intelligence and Data Science degree, I worked on several hands-on projects involving AI and data analysis, applying what I learned to real-world scenarios.
 
 In addition, my experience in aviation has helped immensely in shaping my way of thinking and problem-solving. Aviation taught me to break down complex problems into smaller, manageable blocks and to handle multitasking efficiently, skills that translate directly to programming and algorithm development.
 
